@@ -7,7 +7,7 @@
 
 
 
-[GoLang Tutorial Playlist](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q)
+[**GoLang Tutorial Playlist**](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q)
 
 1. [Variables and Data Types](https://www.youtube.com/watch?v=pM0-CMysa_M&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q&index=2)              
 2. [Assignment Expression & Implicit vs Explicit](https://www.youtube.com/watch?v=UVp7Cz1NMwA&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q&index=3)                                  
@@ -32,14 +32,14 @@
 21. [Interfaces](https://www.youtube.com/watch?v=lh_Uv2imp14&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q&index=22) 
 
 
-### Pointers in Go (From the series above)
-[Pointers in Go](https://www.youtube.com/watch?v=a4HcEsJ1hIE)
+### Go in 12 Minutes: YouTube Video
 
-### Go in 12 Minutes
+[Go in 12 Minutes](https://www.youtube.com/watch?v=1rxDzs0zgcE)
 
 Quick introduction to Go for those already familiar with programming concepts
-<br/>
-[Go in 12 Minutes](https://www.youtube.com/watch?v=1rxDzs0zgcE)
+
+
+
 
 ### Build a REST API with GoLang: YouTube
 
@@ -49,6 +49,7 @@ Quick introduction to Go for those already familiar with programming concepts
 4. POST Requests
 5. GET Request (Specific ID)
 6. PATCH Request
+
 [Build a REST API with GoLang](https://www.youtube.com/watch?v=d_L64KT3SFM)
 
 ## Projects
