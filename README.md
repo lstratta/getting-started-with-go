@@ -12,6 +12,7 @@
 1. [Variables and Data Types](https://www.youtube.com/watch?v=pM0-CMysa_M&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q&index=2)              
 2. [Assignment Expression & Implicit vs Explicit](https://www.youtube.com/watch?v=UVp7Cz1NMwA&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q&index=3)                                  
 3. [Print to Console & fmt](https://www.youtube.com/watch?v=GQ880MlHBBE&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q&index=4)            
+[>> Cheat Sheet: FMT Basics <<](./fmt-basics.md)
 4. [Console Input (Bufio Scanner) & Type Conversion](https://www.youtube.com/watch?v=1-bM3lSBDaA&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q&index=5)                                     
 5. [Arithmetic Operators & Math](https://www.youtube.com/watch?v=qCtgLbFWPI4&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q&index=6)                 
 6. [Conditions and Boolean Expressions](https://www.youtube.com/watch?v=63au_xLLp0A&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q&index=7)                        
@@ -38,8 +39,15 @@
 
 Quick introduction to Go for those already familiar with programming concepts
 
+### Advanced Topics
+
+* Advanced Functions
+* Interfaces
+* GoRoutines
+* Channels
 
 
+## Projects
 
 ### Build a REST API with GoLang: YouTube
 
@@ -52,7 +60,6 @@ Quick introduction to Go for those already familiar with programming concepts
 
 [Build a REST API with GoLang](https://www.youtube.com/watch?v=d_L64KT3SFM)
 
-## Projects
 
 ### REST API Todo List: YouTube
 
@@ -92,6 +99,8 @@ The video course is in Russian, so make the most of the visuals if you don't spe
 ### How Do You Structure Your Go Apps?: Conference Talk
 
 [How Do you Structure Your Go Apps?](https://www.youtube.com/watch?v=1rxDzs0zgcE)
+
+[Different Go Architectures: Kat Zien's Examples GitHub](https://github.com/katzien/go-structure-examples)
 
 
 ## Algorithms
