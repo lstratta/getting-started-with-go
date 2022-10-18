@@ -103,6 +103,8 @@ The video course is in Russian, so make the most of the visuals if you don't spe
 [Different Go Architectures: Kat Zien's Examples GitHub](https://github.com/katzien/go-structure-examples)
 
 
+### Vertical Slice Architecture
+
 ## Algorithms
 
 ### Coffee Shop Parallelism
