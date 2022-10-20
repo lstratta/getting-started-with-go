@@ -3,6 +3,12 @@
 
 ## Contents:
 
+1. [Programming topics in Go](#go-programming-topics)
+2. [Projects](#projects)
+3. [Architecture](#architecture)
+4. [Algorithms completed in go](#algorithms)
+
+***
 
 ## Go Programming Topics
 
@@ -16,8 +22,7 @@
 
 Quick introduction to Go for those already familiar with programming concepts
 
-
-
+***
 
 ## Projects
 
@@ -46,20 +51,12 @@ The video course is in Russian, so make the most of the visuals if you don't spe
 
 [REST API with Docker and Postgres](https://www.youtube.com/watch?v=ZI6HaPKHYsg)
 
+***
+
 ## Architecture
 
 ### Domain-Driven Design Course
 [Domain-Driven Design Course](https://www.youtube.com/playlist?list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG)
-
-### The Clean Architecture
-
-1. Independent of Frameworks. The architecture does not depend on the existence of some library of feature laden software. This allows you to use such frameworks as tools, rather than having to cram your system into their limited constraints.
-2. Testable. The business rules can be tested without the UI, Database, Web Server, or any other external element.
-3. Independent of UI. The UI can change easily, without changing the rest of the system. A Web UI could be replaced with a console UI, for example, without changing the business rules.
-4. Independent of Database. You can swap out Oracle or SQL Server, for Mongo, BigTable, CouchDB, or something else. Your business rules are not bound to the database.
-5.  Independent of any external agency. In fact your business rules simply don’t know anything at all about the outside world.
-
-[Uncle Bob - The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 ### Clean Archtuecture in Go Blog Post (Translated from Russian)
 
@@ -79,6 +76,8 @@ The video course is in Russian, so make the most of the visuals if you don't spe
 
 
 ### Vertical Slice Architecture
+[Vertical Slice Architecture](https://medium.com/@Headspring/why-vertical-slice-architecture-is-better-if-you-know-these-few-things-63251cbe80c6)
+
 
 ## Algorithms
 
