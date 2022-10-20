@@ -7,8 +7,9 @@
 2. [Projects](#projects)
 3. [Architecture](#architecture)
 4. [Algorithms completed in go](#algorithms)
+5. [Backend Development](#backend-development))
 
-***
+*********************************************************
 
 ## Go Programming Topics
 
@@ -22,18 +23,11 @@
 
 Quick introduction to Go for those already familiar with programming concepts
 
-***
+*********************************************************
 
 ## Projects
 
 ### Build a REST API with GoLang: YouTube
-
-1. Brief intro to RESTFUL APIs
-2. Setting up a GoLang app
-3. GET Request
-4. POST Requests
-5. GET Request (Specific ID)
-6. PATCH Request
 
 [Build a REST API with GoLang](https://www.youtube.com/watch?v=d_L64KT3SFM)
 
@@ -51,9 +45,16 @@ The video course is in Russian, so make the most of the visuals if you don't spe
 
 [REST API with Docker and Postgres](https://www.youtube.com/watch?v=ZI6HaPKHYsg)
 
-***
+*********************************************************
 
 ## Architecture
+
+
+
+### Structuring Applications in Go
+[Structuring Applications in Go - Ben Johnson](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
+
+[**>> MY NOTES HERE <<**](./architecture/structuring-your-go-app.md)
 
 ### Domain-Driven Design Course
 [Domain-Driven Design Course](https://www.youtube.com/playlist?list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG)
@@ -70,7 +71,7 @@ The video course is in Russian, so make the most of the visuals if you don't spe
 
 ### How Do You Structure Your Go Apps?: Conference Talk
 
-[How Do you Structure Your Go Apps?](https://www.youtube.com/watch?v=1rxDzs0zgcE)
+[How Do you Structure Your Go Apps? - Kat Zien](https://www.youtube.com/watch?v=1rxDzs0zgcE)
 
 [Different Go Architectures: Kat Zien's Examples GitHub](https://github.com/katzien/go-structure-examples)
 
@@ -78,6 +79,7 @@ The video course is in Russian, so make the most of the visuals if you don't spe
 ### Vertical Slice Architecture
 [Vertical Slice Architecture](https://medium.com/@Headspring/why-vertical-slice-architecture-is-better-if-you-know-these-few-things-63251cbe80c6)
 
+*********************************************************
 
 ## Algorithms
 
@@ -85,5 +87,8 @@ The video course is in Russian, so make the most of the visuals if you don't spe
 
 [Coffee Shop Parallelism](https://github.com/Sajmani/dotgo/blob/master/coffee/main.go)
 
+*********************************************************
 
+## Backend Development
 
+[Backend Development Overview](./backend-development/backend-development-overview.md)
