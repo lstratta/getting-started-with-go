@@ -1,10 +1,12 @@
 
 # Getting Started With GoLang
 
-<br/>
-
 ## Contents:
 
+
+## Go Programming Topics
+
+[Topics Here](./go-lang/go-lang-tutorial.md)
 
 [Golang Tutorial Series: Tech with Tim - YouTube](./go-lang/go-lang-tutorial.md)
 
@@ -14,12 +16,7 @@
 
 Quick introduction to Go for those already familiar with programming concepts
 
-### Advanced Topics
 
-* Advanced Functions
-* Interfaces
-* GoRoutines
-* Channels
 
 
 ## Projects

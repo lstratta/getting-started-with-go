@@ -1,5 +1,9 @@
 # GoLang Tutorial Playlist
 
+## Basic Topics
+
+The videos linked below are there to give you a basic understanding of how each concept works. Be sure to dive deep into each topic to get a detailed understanding of each.
+
 [**GoLang Tutorial Playlist**](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q)
 
 1. [Variables and Data Types](https://www.youtube.com/watch?v=pM0-CMysa_M&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q&index=2)              
@@ -24,3 +28,10 @@
 19. [Structs & Custom Types](https://www.youtube.com/watch?v=dm9oXt6_YNA&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q&index=20)             
 20. [Struct Methods](https://www.youtube.com/watch?v=5b8MMXgBnp0&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q&index=21)     
 21. [Interfaces](https://www.youtube.com/watch?v=lh_Uv2imp14&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q&index=22) 
+
+
+## Advanced Topics
+
+* Advanced Functions
+* GoRoutines
+* Channels
