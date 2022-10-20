@@ -7,7 +7,8 @@
 2. [Projects](#projects)
 3. [Architecture](#architecture)
 4. [Algorithms completed in go](#algorithms)
-5. [Backend Development](#backend-development))
+5. [Backend Development](#backend-development)
+6. [Databases](#databases)
 
 *********************************************************
 
@@ -92,3 +93,9 @@ The video course is in Russian, so make the most of the visuals if you don't spe
 ## Backend Development
 
 [Backend Development Overview](./backend-development/backend-development-overview.md)
+
+*********************************************************
+
+## Databases
+
+*In progress...*
