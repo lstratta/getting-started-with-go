@@ -1,4 +1,4 @@
-# Domain-Driven Design Jargon
+# Domain-Driven Design Terminology
 
 ## Domain Driven Design
 
