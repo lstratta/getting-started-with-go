@@ -54,7 +54,7 @@ The video course is in Russian, so make the most of the visuals if you don't spe
 ### Structuring Applications in Go
 [Structuring Applications in Go - Ben Johnson](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
 
-[**>> MY NOTES HERE <<**](./architecture/structuring-your-go-app.md)
+[**>> MY NOTES <<**](./architecture/structuring-your-go-app.md)
 
 ### Domain-Driven Design Course
 [Domain-Driven Design Course](https://www.youtube.com/playlist?list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG)
