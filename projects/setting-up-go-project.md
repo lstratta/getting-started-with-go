@@ -16,6 +16,7 @@
 
 Libraries to check out:
 * https://github.com/julienschmidt/httprouter
+* https://github.com/bashtian/jsonutils -> cmdline tool for converting large JSON objects to Go struct types
 
 
 
