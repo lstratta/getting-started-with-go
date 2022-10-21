@@ -1,4 +1,4 @@
-# Connecting to MongoDB#
+# Connecting to MongoDB and Core Functionality
 
 ## Contents
 1. [Database Connection](#database-connection)
