@@ -35,3 +35,4 @@ The videos linked below are there to give you a basic understanding of how each 
 * Advanced Functions
 * GoRoutines
 * Channels
+* `Init()` Function
